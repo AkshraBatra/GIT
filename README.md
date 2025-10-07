@@ -1,2 +1,3 @@
 # GIT
 THIS IS MY FIRST GIT REPOSITORY
+Author - Akshra Batra
